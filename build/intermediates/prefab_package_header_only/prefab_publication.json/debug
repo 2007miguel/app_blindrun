@@ -1,0 +1,17 @@
+{
+  "installationFolder": "C:\\Users\\juan\\Documents\\Miguel\\lab-4\\prueba_opencv\\openCv\\build\\intermediates\\prefab_package\\debug\\prefab",
+  "gradlePath": ":openCv",
+  "packageInfo": {
+    "packageName": "openCv",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "C:\\Users\\juan\\Documents\\Miguel\\lab-4\\prueba_opencv\\openCv\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+C:\Users\juan\Documents\Miguel\lab-4\prueba_opencv\openCv\libcxx_helper\CMakeLists.txt

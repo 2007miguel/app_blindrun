@@ -1,0 +1,1 @@
+C:\Users\juan\Documents\Miguel\lab-4\prueba_opencv\openCv\build\intermediates\cxx\Debug\2d1l6f1y\obj\arm64-v8a
